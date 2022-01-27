@@ -10,6 +10,8 @@
 <br>
 <br>
 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fdangerbots%2FUX-JUTSU-RAILWAY&plugins=mongodb%2Credis&envs=API_ID%2CAPI_HASH%2CBOT_TOKEN%2CDATABASE_URL%2CHU_STRING_SESSION%2CLOG_CHANNEL_ID)
+
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/code-rgb/userge-x)
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg?&style=flat-square)](https://github.com/code-rgb/USERGE-X#copyright--license)
 [![Stars](https://img.shields.io/github/stars/code-rgb/USERGE-X?&style=flat-square)](https://github.com/code-rgb/USERGE-X/stargazers)
